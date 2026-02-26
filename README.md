@@ -1,7 +1,7 @@
 # THUC HANH 06- NHOM 02
 # BUỔI 6: CƠ SỞ DỮ LIỆU, TÌM KIẾM VÀ ĐÁNH GIÁ ĐỘ TIN CẬY CỦA THÔNG TIN
- ĐÀO THỊ KIM NGÂN B2504807
- LÊ KIM NGÂN B2504808
+* ĐÀO THỊ KIM NGÂN B2504807
+* LÊ KIM NGÂN B2504808
  HOÀNG NGỌC CHĂM B2504827
  TRẦN NGUYỄN ANH THƯ B2504818
 # Bài 1: Hãy tạo bảng Excel có nội dung như sau:
